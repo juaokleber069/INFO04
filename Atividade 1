@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+    <title>Minha Primeira Página HTML</title>
+</head>
+<body>
+
+    <h1>Bem-vindo à minha página.</h1>
+
+    <h2>Minha Lista de Itens</h2>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+
+    <h2>Uma Imagem</h2>
+    <img  width="40%" src="https://petiscos.love/wp-content/uploads/2016/07/Morticia-Addams.jpg" alt="Exemplo de imagem de um placeholder">
+    <p>Esta é uma imagem de exemplo de mulher linda na epoca.</p>
+
+    <h2>Um Link</h2>
+    <p>Clique aqui para ir para o <a href="https://www.google.com" target="_blank">Google</a>.</p>
+
+</body>
+</html>
